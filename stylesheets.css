@@ -1,0 +1,39 @@
+#clock{
+	float:right;
+}
+.fas{
+    font-size: 20px;
+    color: black;
+}
+
+.fa-user-plus{
+    color:white;
+}
+.fa-user-md{
+    color: #27dfed;
+}
+/*.fa-sign-out-alt{*/
+    /*color: #eae5ed*/
+/*}*/
+
+
+.jumbotron ul li{
+	display: inline-block;
+
+}
+
+.jumbotron ul li a{
+    text-decoration: none;
+}
+
+#sign_in_box{
+    box-sizing: border-box;
+}
+.modal-body{
+    width: 350px;
+}
+
+.close {
+    color: #fff;
+    opacity: 1;
+}
